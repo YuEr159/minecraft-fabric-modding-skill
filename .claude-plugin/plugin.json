@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-fabric-modding",
+  "description": "Fabric mod development skill for multi-version maintenance: version cliffs, mixin remap debugging, mapping verification, CI and in-game testing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "YuEr159"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/YuEr159/minecraft-fabric-modding-skill",
+  "repository": "https://github.com/YuEr159/minecraft-fabric-modding-skill",
+  "keywords": ["minecraft", "fabric", "modding", "mixin", "remap", "mappings", "loom", "neoforge", "ci"]
+}

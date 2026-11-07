@@ -1,0 +1,21 @@
+{
+  "name": "minecraft-fabric-modding-skill",
+  "version": "1.0.0",
+  "description": "Minecraft Fabric mod development field notes: multi-version maintenance, mixin remap debugging, mapping verification, CI smoke testing, and in-game test protocols, distilled from a 60-version-line real project.",
+  "owner": {
+    "name": "YuEr159"
+  },
+  "plugins": [
+    {
+      "name": "minecraft-fabric-modding",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Fabric mod development skill for multi-version maintenance: version cliff tables (1.14.4-26.3), mixin annotation half-remap root cause and intermediary number tables, bytecode-level mapping verification, loom/CI build recipes, and layered in-game testing protocols. NeoForge covered as contrast.",
+      "author": {
+        "name": "YuEr159"
+      },
+      "keywords": ["minecraft", "fabric", "modding", "mixin", "remap", "mappings", "loom", "neoforge", "ci"],
+      "category": "gaming"
+    }
+  ]
+}
