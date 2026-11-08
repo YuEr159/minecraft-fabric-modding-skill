@@ -4,6 +4,12 @@ Minecraft Java 版 **Fabric 模组开发**的实战经验技能包（Claude Code
 
 蒸馏自 [AnotherColorBlock](https://github.com/YuEr159/AnotherColorBlock) 项目的真实工程历史：37 个 Fabric 版本站 + 23 个 NeoForge 版本站实机测试、28 分支 CI 全绿、16 分支 mixin 批量修复、60 站实机回归总报告。
 
+## 适用范围
+
+**适用**：维护或移植 Fabric 模组的开发者——跨版本升级、mixin 崩溃排查、映射核对、CI 搭建、实机测试体系设计。MC 版本 1.14.4 – 26.3，NeoForge 对照知识覆盖 1.20.1 – 26.3。
+
+**不适用**：从零入门（加方块/物品/配方，用 `minecraft-modding`）；数据包/资源包创作；服务端插件；基岩版；1.12.2 Forge（生态结论仅对 Fabric 成立）。
+
 ## 解决什么问题
 
 - **跨版本移植**：1.14.4 – 26.3 的版本悬崖表（18+ 断代点，逐条实证）
